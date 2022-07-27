@@ -1,4 +1,4 @@
-<h4>Faculty Information System</h4><hr>
+<h4>Faculty Information System</h4>
 <hr/>
 
 - Quiz Creation
