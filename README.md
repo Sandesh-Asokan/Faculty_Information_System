@@ -1,4 +1,5 @@
-#Faculty Information System
+<h2>Faculty Information System</h2>
+<hr/>
 
 - Add Data of Faculties
 - Edit Data
