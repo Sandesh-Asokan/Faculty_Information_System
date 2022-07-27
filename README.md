@@ -1,5 +1,11 @@
-<h2>Faculty Information System</h2>
+<h4>Faculty Information System</h4><hr>
 <hr/>
+
+- Quiz Creation
+- Question wise Evaluation
+- Text Recognition
+- Mark Allocatin
+- Results
 
 - Add Data of Faculties
 - Edit Data
